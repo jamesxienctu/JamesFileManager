@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">James File Manager</string>
+
+	<string name="per_null">無</string>
+	<string name="per_only_read">唯讀</string>
+	<string name="per_only_exec">只執行</string>
+	<string name="per_read_write">讀寫</string>
+	<string name="per_read_exec">唯讀, 執行</string>
+	<string name="per_write_exec">讀寫, 執行</string>
+	<string name="permission">屬性</string>
+	<string name="copyFile">複製檔案</string>
+	<string name="ok">確定</string>
+	<string name="cancel">取消</string>
+	<string name="existed">已存在</string>
+	<string-array name="copyWarning">
+		<item>檔案名後面加(2)</item>
+		<item>覆蓋目前的目錄檔案</item>
+		<item>取消操作</item>
+		<item>跳過</item>
+		<item>以同樣方式處理後面的檔案</item>
+
+	</string-array>
+	<string name="copying">正在複製中</string>
+	<string name="sure_delete_files">確定要刪除檔案</string>
+	<string name="new_file">新建檔案</string>
+	<string name="new_directory">新建資料夾</string>
+	<string name="rename">重命名</string>
+	<string name="dele_file_error">刪除檔案出錯</string>
+	<string name="cancel_copy">取消複製</string>
+	<string name="fail_to_copy">複製檔案失敗</string>
+	<string name="done_copy">複製完成</string>
+	<string name="moving_files">移動檔案中...</string>
+	<string name="hide">隱藏</string>
+	<string name="can_not_open_file">打開檔案出錯</string>
+	<string name="can_not_find_a_suitable_program_to_open_this_file">沒有適合打開這個檔案的程式</string>
+	<string name="fail_to_modify">修改失敗</string>
+	<string name="choice_program">選擇程式</string>
+	<string-array name="programs">
+		<item>文字</item>
+		<item>圖片</item>
+		<item>視頻</item>
+		<item>音樂</item>
+	</string-array>
+	<string-array name="apkmenu">
+		<item>啟動軟體</item>
+		<item>移除軟體</item>
+		<item>備份軟體</item>
+		<item>詳細資訊</item>
+	</string-array>
+	<string-array name="longClickListMenu">
+		<item>打開</item>
+		<item>打開方式</item>
+		<item>複製</item>
+		<item>剪切</item>
+		<item>貼上</item>
+		<item>刪除</item>
+		<item>重新命名</item>
+		<item>全選</item>
+		<item>zip壓縮</item>
+		<item>zip解壓縮</item>
+		<!--<item>添加到檔案庫</item>--><!--James.拿掉檔案庫-->
+		<item>屬性</item>
+	</string-array>
+	<string name="clipboard_is_empty">複製板為空</string>
+	<string name="the_input_path_error_or_not_exsit">輸入目錄錯誤或不存在</string>
+	<string name="history">歷史</string>
+	<string name="sure_exit">確定要退出?</string>
+	<string name="no_root">沒有root權限</string>
+	<string name="path">路徑</string>
+	<string name="dele_file">刪除檔案</string>
+	<string name="not_drag">不能拖拉</string>
+	<string name="drag">拖拉</string>
+	<string name="searching">正在搜尋中...</string>
+	<string name="done_search">已完成搜尋 %s</string>
+	<string name="key_word_can_not_contain">輸入關鍵字不能有/</string>
+	<string-array name="appnames">
+		<item>新建資料夾</item>
+		<item>新建檔案</item>
+		<item>貼上</item>
+		<item>搜尋</item>
+		<item>複製對話方塊</item>
+		<item>APK管理</item>
+		<item>設置</item>
+		<item>圖示</item>
+		<item>檔案庫</item>
+		<item>退出</item>
+	</string-array>
+	<string name="folder">資料夾</string>
+	<string name="normal_file">普通檔案</string>
+	<string name="link_file">連結檔案</string>
+	<string name="dev_file">設備檔案</string>
+	<string name="chars_file">字元設備檔案</string>
+	<string-array name="rename_mult"><item>檔案名後面加(2)</item>
+		<item>替換目前的目錄檔案</item>
+		<item>取消操作</item>
+	</string-array>
+	<string name="creat_folder_failth">創建資料夾失敗</string>
+	<string name="creat_file_failth">創建檔案失敗</string>
+	<string name="icon">圖示</string>
+	<string name="list">列表</string>
+	<string name="file_not_existed">%s 檔案不存在</string>
+	<string name="set_backup_dir">設置軟體備份目錄</string>
+	<string name="search">搜尋</string>
+
+</resources>
+
